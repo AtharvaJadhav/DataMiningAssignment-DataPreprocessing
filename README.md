@@ -1,61 +1,26 @@
 # Data Analysis and Machine Learning on Diverse Datasets
+
 This repository contains comprehensive analysis, preprocessing, and modeling on a variety of datasets, ranging from tabular data to videos. Our goal is to understand the intricacies of each dataset, preprocess them effectively, and apply suitable machine learning models.
 
 ## Datasets:
-### [1. Credit Card Fraud Detection](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+
+### [1. Tabular Data](./Tabular_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eZUSyLDdKBrYJBv_q6jzY-SKwcBitB4L)
 Type: Tabular
 
-Nature: Imbalanced
-
-Description: This dataset contains transactions made by credit cards, where we need to identify fraudulent transactions.
-
-### [2. Electricity Consumption](https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set)
-
+### [2. Time Series Analysis](./TimeSeries_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1a_HjObI21CMltPt-aGt15cpmzDlXTTyU)
 Type: Timeseries
 
-Nature: Imbalanced
-
-Description: A dataset capturing the electricity consumption patterns over time.
-
-### [3. Air Quality Dataset](https://www.kaggle.com/datasets/fedesoriano/air-quality-data-set)
-
+### [3. Spatio-Temporal Data](./SpacioTemporal_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1sl8BvPzQjT_MQJBvKr67bCXQd8QNFd37)
 Type: Spatio-temporal
 
-Nature: Imbalanced
-
-Description: This dataset records the air quality metrics across different locations and times.
-
-### [4. Skin Cancer MNIST: HAM10000](https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000)
-
+### [4. Image Classification](./Image_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uvZzdZ7uPlMtyN1BBtpXPq3lb-L9QEEa)
 Type: Image
 
-Nature: Imbalanced
-
-Description: A collection of dermatoscopic images of pigmented lesions, aimed at skin cancer classification.
-
-### [5. UrbanSound8K](https://www.kaggle.com/datasets/chrisfilo/urbansound8k)
-
+### [5. Audio Data Analysis](./Audio_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Vxu5AmizoanjzLhPdhpHPqIr9ILiaSDN)
 Type: Audio
 
-Nature: Balanced
-
-Description: This dataset contains 8732 labeled sound excerpts from urban environments.
-
-### [6. UCF101 - Action Recognition Data Set](https://www.kaggle.com/datasets/matthewjansen/ucf101-action-recognition)
-
-Type: Video
-
-Nature: Balanced
-
-Description: A dataset of videos containing 101 human actions categories.
-
-### [7. Amazon Product Co-purchasing Network](https://www.kaggle.com/datasets/asifcoolprogrammer/amazon-product-co-purchasing-network)
-
+### [6. Graph Data](./Graph_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k3ypcf6mUrgMFdc_yC_4CUjVfT-kf0Lr)
 Type: Graph
-
-Nature: Imbalanced
-
-Description: A dataset capturing the co-purchasing behavior of Amazon product users.
 
 ## Approach:
 
@@ -86,7 +51,6 @@ Python
 pandas, numpy
 scikit-learn
 TensorFlow, Keras
-Azure ML, AWS SageMaker
 
 ## Conclusion:
 This project aims to provide a comprehensive approach to handling diverse datasets, from the initial stages of EDA to the final modeling. By addressing the unique challenges posed by each dataset type and nature (balanced/imbalanced), we strive for accurate and insightful results.
