@@ -1,5 +1,10 @@
 # Data Analysis and Machine Learning on Diverse Datasets
 
+## Article:
+
+[Leveraging GPT-4 for Rapid Data Exploration and Modeling](https://medium.com/@atharvajadhav/leveraging-gpt-4-for-rapid-data-exploration-and-modeling-c73633f605b2)
+
+
 This repository contains comprehensive analysis, preprocessing, and modeling on a variety of datasets, ranging from tabular data to videos. Our goal is to understand the intricacies of each dataset, preprocess them effectively, and apply suitable machine learning models.
 
 ## Datasets:
