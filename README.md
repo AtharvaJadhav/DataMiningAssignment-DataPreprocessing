@@ -27,6 +27,9 @@ Type: Audio
 ### [6. Graph Data](./Graph_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1k3ypcf6mUrgMFdc_yC_4CUjVfT-kf0Lr)
 Type: Graph
 
+### [7. Video Data](./Video_AtharvaJadhav.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10X2HeZjRcQs9aHdL87tIK0uPrEsrg7ha)
+Type: Video
+
 ## Approach:
 
 ### 1. Exploratory Data Analysis (EDA):
